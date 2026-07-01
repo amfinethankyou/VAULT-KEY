@@ -1,1 +1,7 @@
 # VAULT-KEY
+
+1. e4 e5  2. Nf3 d6  3. Bc4 Bg4  4. Nc3 g6??  5. Nxe5! Bxd1  6. Bxf7+ Ke7  7. Nd5#
+
+
+
+"DM the passphrase to the Vault Keeper (yo-kinzayy) to receive entry."
