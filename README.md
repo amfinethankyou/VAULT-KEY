@@ -4,4 +4,4 @@
 
 
 
-"DM the passphrase to the Vault Keeper (yo-kinzayy) to receive entry."
+"DM the passphrase to the Vault Keeper to receive entry."
